@@ -1,0 +1,20 @@
+{
+  "name": "customevents",
+  "version": "1.0.0",
+  "description": "A friendly wrapper for CustomEvent",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "customevents",
+    "events"
+  ],
+  "author": "Shalitha Suranga",
+  "license": "MIT"
+}
